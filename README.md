@@ -73,9 +73,9 @@ Outside of data, I explore biodiversity and nature through the iNaturalist platf
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Artem-Liakh&show_icons=true&theme=default" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artem-Liakh&layout=compact" alt="Top Languages" />
 </p>
 
 *(Replace `USERNAME` with your actual GitHub username)*
