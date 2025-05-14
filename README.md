@@ -75,7 +75,7 @@ Outside of data, I explore biodiversity and nature through the iNaturalist platf
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Artem-Liakh&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artem-Liakh&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artem-Liakh&layout=compact&theme=transparent" alt="Top Languages" />
 </p>
 
 ---
