@@ -26,19 +26,24 @@ I enjoy transforming raw data into impactful visual stories and well-structured 
 
 ---
 
+<h3>🧰 Tools & Technologies</h3>
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQL" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Google_Sheets_logo_%282014-2020%29.svg" alt="Google Sheets" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Google_Data_Studio_Logo.png/600px-Google_Data_Studio_Logo.png" alt="Looker Studio" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_Logo.svg" alt="Power BI" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Google_Analytics_4_logo.svg" alt="Google Analytics 4" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Google_BigQuery_Logo.png" alt="BigQuery" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQL" height="40" style="margin-right:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="40" style="margin-right:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40" style="margin-right:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40" style="margin-right:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="40" style="margin-right:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="40" style="margin-right:10px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Google_Sheets_logo_%282014-2020%29.svg" alt="Google Sheets" height="40" style="margin-right:10px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" height="40" style="margin-right:10px"/>
+</p>
+
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Google_Data_Studio_Logo.png/600px-Google_Data_Studio_Logo.png" alt="Looker Studio" height="40" style="margin-right:10px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_Logo.svg" alt="Power BI" height="40" style="margin-right:10px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Google_Analytics_4_logo.svg" alt="Google Analytics 4" height="40" style="margin-right:10px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Google_BigQuery_Logo.png" alt="BigQuery" height="40" style="margin-right:10px"/>
 </p>
 
 
