@@ -10,9 +10,10 @@ I'm **Artem Liakh**, a Junior Data Analyst passionate about uncovering hidden pa
 
 I enjoy transforming raw data into impactful visual stories and well-structured dashboards using BI tools. What drives me is the **speed with which insights lead to action** and how **simplicity and clarity** in visualization help decision-makers across business, science, and beyond.
 
-### Languages  
-🇺🇦 Ukrainian – Native  
-🇬🇧 English – Intermediate 
+### 🌐 Languages
+
+- 🇺🇦 Ukrainian – Native  
+- 🇬🇧 English – Intermediate
 ---
 
 ### 🛠️ Skills & Tools
