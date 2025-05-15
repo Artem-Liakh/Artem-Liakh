@@ -71,15 +71,6 @@ Outside of data, I explore biodiversity and nature through the iNaturalist platf
 
 ---
 
-### 📫 Contact Me
-
-- 📧 Email: *(coming soon)*
-- 💬 Telegram: *(coming soon)*
-- 🔗 LinkedIn: *(coming soon)*
-- 📄 [CV / Resume](#)
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
