@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi there, I'm Artem 👋</h1>
-<h3 align="center">Junior Data Analyst | Turning Data Into Decisions</h3>
+<h3 align="center">🔹 Data Analyst | SQL Enthusiast | BI Tools Explorer  
+</h3>
 
 ---
 
