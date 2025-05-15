@@ -17,29 +17,56 @@ I enjoy transforming raw data into impactful visual stories and well-structured 
 - 🇬🇧 English – Intermediate
 ---
 
-<p align="center">
-  <a href="https://public.tableau.com/views/CurvedBumpChart_17437326237300/Dashboard2">
-    <img src="https://github.com/Artem-Liakh/test/blob/main/Folder1/images/Screenshot%202025-05-15%20at%2017.01.46.png?raw=true" width="250" alt="Curved Bump Chart" />
-  </a>
-  <a href="https://public.tableau.com/views/TriangleBarCharteng/Dashboard4">
-    <img src="https://github.com/Artem-Liakh/test/blob/main/Folder1/images/Screenshot%202025-05-15%20at%2017.03.54.png?raw=true" width="250" alt="Triangle Bar Chart" />
-  </a>
-  <a href="https://public.tableau.com/views/MajorArmsExportingStates2020-24voronoi/Dashboard2">
-    <img src="https://github.com/Artem-Liakh/test/blob/main/Folder1/images/Screenshot%202025-05-15%20at%2017.02.29.png?raw=true" width="250" alt="Voronoi diagram" />
-  </a>
-</p>
+<h2 align="center">📊 Tableau Projects Gallery</h2>
 
-<p align="center">
-  <a href="https://public.tableau.com/views/FinalProjectDashboard_17370680516190/RevenueDynamicsandPaidUserAnalysis">
-    <img src="https://github.com/Artem-Liakh/test/blob/main/Folder1/images/Screenshot%202025-05-15%20at%2016.48.15.png?raw=true" width="250" alt="Revenue Dynamics and Paid User Analysis" />
-  </a>
-  <a href="https://public.tableau.com/views/AirRaidAlarmsCalendarinUkraine2024/Airraidalarmcount">
-    <img src="https://github.com/Artem-Liakh/test/blob/main/Folder1/images/Screenshot%202025-05-15%20at%2017.03.23.png?raw=true" width="250" alt="Air Raid Calendar" />
-  </a>
-  <a href="https://public.tableau.com/views/FanChordAirRaidAlarm/Dashboard1">
-    <img src="https://github.com/Artem-Liakh/test/blob/main/Folder1/images/Screenshot%202025-05-15%20at%2017.04.19.png?raw=true" width="250" alt="Fan Chord" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://public.tableau.com/views/CurvedBumpChart_17437326237300/Dashboard2">
+        <img src="https://github.com/Artem-Liakh/test/blob/main/Folder1/images/Screenshot%202025-05-15%20at%2017.01.46.png?raw=true" width="280" alt="Curved Bump Chart" />
+      </a>
+      <br/>
+      <strong>Curved Bump Chart</strong>
+    </td>
+    <td align="center">
+      <a href="https://public.tableau.com/views/TriangleBarCharteng/Dashboard4">
+        <img src="https://github.com/Artem-Liakh/test/blob/main/Folder1/images/Screenshot%202025-05-15%20at%2017.03.54.png?raw=true" width="280" alt="Triangle Bar Chart" />
+      </a>
+      <br/>
+      <strong>Triangle Bar Chart</strong>
+    </td>
+    <td align="center">
+      <a href="https://public.tableau.com/views/MajorArmsExportingStates2020-24voronoi/Dashboard2">
+        <img src="https://github.com/Artem-Liakh/test/blob/main/Folder1/images/Screenshot%202025-05-15%20at%2017.02.29.png?raw=true" width="280" alt="Voronoi Diagram" />
+      </a>
+      <br/>
+      <strong>Voronoi Diagram</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://public.tableau.com/views/FinalProjectDashboard_17370680516190/RevenueDynamicsandPaidUserAnalysis">
+        <img src="https://github.com/Artem-Liakh/test/blob/main/Folder1/images/Screenshot%202025-05-15%20at%2016.48.15.png?raw=true" width="280" alt="Revenue Analysis" />
+      </a>
+      <br/>
+      <strong>Revenue Dynamics & Paid Users</strong>
+    </td>
+    <td align="center">
+      <a href="https://public.tableau.com/views/AirRaidAlarmsCalendarinUkraine2024/Airraidalarmcount">
+        <img src="https://github.com/Artem-Liakh/test/blob/main/Folder1/images/Screenshot%202025-05-15%20at%2017.03.23.png?raw=true" width="280" alt="Air Raid Calendar" />
+      </a>
+      <br/>
+      <strong>Air Raid Alarm Calendar</strong>
+    </td>
+    <td align="center">
+      <a href="https://public.tableau.com/views/FanChordAirRaidAlarm/Dashboard1">
+        <img src="https://github.com/Artem-Liakh/test/blob/main/Folder1/images/Screenshot%202025-05-15%20at%2017.04.19.png?raw=true" width="280" alt="Fan Chord Diagram" />
+      </a>
+      <br/>
+      <strong>Fan Chord Diagram</strong>
+    </td>
+  </tr>
+</table>
 
 
 
