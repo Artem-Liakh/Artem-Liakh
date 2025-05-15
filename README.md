@@ -40,10 +40,10 @@ I enjoy transforming raw data into impactful visual stories and well-structured 
 </p>
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Google_Data_Studio_Logo.png/600px-Google_Data_Studio_Logo.png" alt="Looker Studio" height="40" style="margin-right:10px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_Logo.svg" alt="Power BI" height="40" style="margin-right:10px"/>
+  <img src="https://raw.githubusercontent.com/Artem-Liakh/Artem-Liakh/main/assets/looker.png" alt="Looker Studio" height="40" style="margin-right:10px"/>
+  <img src="https://raw.githubusercontent.com/Artem-Liakh/Artem-Liakh/main/assets/power-bi-icon-logo-png_seeklogo-439962.png" alt="Power BI" height="40" style="margin-right:10px"/>
   <img src="https://raw.githubusercontent.com/Artem-Liakh/Artem-Liakh/main/assets/ga4-logo.png" alt="Google Analytics 4" height="40" style="margin-right:10px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Google_BigQuery_Logo.png" alt="BigQuery" height="40" style="margin-right:10px"/>
+  <img src="https://raw.githubusercontent.com/Artem-Liakh/Artem-Liakh/main/assets/google_bigquery_logo_icon_168150.webp" alt="BigQuery" height="40" style="margin-right:10px"/>
 </p>
 
 
