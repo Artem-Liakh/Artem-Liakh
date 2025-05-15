@@ -28,23 +28,7 @@ I enjoy transforming raw data into impactful visual stories and well-structured 
 
 <h3>🧰 Tools & Technologies</h3>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQL" height="40" style="margin-right:10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="40" style="margin-right:10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40" style="margin-right:10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40" style="margin-right:10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="40" style="margin-right:10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="40" style="margin-right:10px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Google_Sheets_logo_%282014-2020%29.svg" alt="Google Sheets" height="40" style="margin-right:10px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" height="40" style="margin-right:10px"/>
-</p>
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/Artem-Liakh/Artem-Liakh/main/assets/looker.png" alt="Looker Studio" height="40" style="margin-right:10px"/>
-  <img src="https://raw.githubusercontent.com/Artem-Liakh/Artem-Liakh/main/assets/power-bi-icon-logo-png_seeklogo-439962.png" alt="Power BI" height="40" style="margin-right:10px"/>
-  <img src="https://raw.githubusercontent.com/Artem-Liakh/Artem-Liakh/main/assets/ga4-logo.png" alt="Google Analytics 4" height="40" style="margin-right:10px"/>
-  <img src="https://raw.githubusercontent.com/Artem-Liakh/Artem-Liakh/main/assets/google_bigquery_logo_icon_168150.webp" alt="BigQuery" height="40" style="margin-right:10px"/>
-</p>
+<table align="center"> <tr> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40"/><br/>SQLite</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/><br/>PostgreSQL</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/><br/>Python</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/><br/>Git</td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/><br/>GitHub</td> </tr> <tr> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/><br/>VS Code</td> <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Google_Sheets_logo_%282014-2020%29.svg" height="40"/><br/>Google Sheets</td> <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" height="40"/><br/>Tableau</td> <td align="center"><img src="https://raw.githubusercontent.com/Artem-Liakh/Artem-Liakh/main/assets/looker.png" height="40"/><br/>Looker</td> <td align="center"><img src="https://raw.githubusercontent.com/Artem-Liakh/Artem-Liakh/main/assets/power-bi-icon-logo-png_seeklogo-439962.png" height="40"/><br/>Power BI</td> </tr> <tr> <td align="center"><img src="https://raw.githubusercontent.com/Artem-Liakh/Artem-Liakh/main/assets/ga4-logo.png" height="40"/><br/>GA4</td> <td align="center"><img src="https://raw.githubusercontent.com/Artem-Liakh/Artem-Liakh/main/assets/google_bigquery_logo_icon_168150.webp" height="40"/><br/>BigQuery</td> <td align="center"></td> <td align="center"></td> <td align="center"></td> </tr> </table>
 
 
 ### 📊 Projects
