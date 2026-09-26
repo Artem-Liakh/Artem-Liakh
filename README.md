@@ -7,7 +7,7 @@
 
 ### 🚀 About Me
 
-I'm **Artem Liakh**, a Junior Data Analyst passionate about uncovering hidden patterns in data and communicating insights in a clear and convincing way.
+I'm **Artem Liakh**, a Data Analyst passionate about uncovering hidden patterns in data and communicating insights in a clear and convincing way.
 
 I enjoy transforming raw data into impactful visual stories and well-structured dashboards using BI tools. What drives me is the **speed with which insights lead to action** and how **simplicity and clarity** in visualization help decision-makers across business, science, and beyond.
 
